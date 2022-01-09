@@ -5,5 +5,4 @@ This is the simplest possible Java webappsfor testing servlet container deployme
 
 Command execute  build:
 mvn clean package
-new >>>>>><<<<
-s
+new >>>>>><<<
